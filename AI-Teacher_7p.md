@@ -1,13 +1,10 @@
-# AI Teacher 3+
+# AI Teacher 7+
 Based on T-Circle-S3
 
-<img src="https://github.com/user-attachments/assets/6ee70f87-322f-473d-a4fd-8e8a97b89a8b" width=400>
+<img src="https://github.com/user-attachments/assets/362e1cfa-3efc-4d0b-8a5b-fe802c4268a3" width=400>
 
 
-
-
-
-"Teacher 3+" — an interactive game for children aged 3 to 7 years.
+"Teacher 3+" — an interactive game for children aged 7 to 14 years.
 
 The "Teacher" interacts with the children and helps them learn how to pronounce words using pictures and sounds.
 
@@ -30,9 +27,14 @@ An artificial neural network is used to recognize the correct pronunciation of a
 - **Topics**
   - Numbers
   - Animals
-  - Nature
-  - Human
   - Objects
+  - Human
+  - Nature
+  - House
+  - Alphabet
+  - Verbs
+  - School
+  - Shapes
 
 ---
 
