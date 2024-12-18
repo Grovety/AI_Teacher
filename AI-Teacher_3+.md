@@ -1,8 +1,10 @@
 # AI Teacher 3+
+Based on T-Circle-S3
 
-**Based on T-Circle-S3**
+<img src="https://github.com/user-attachments/assets/6ee70f87-322f-473d-a4fd-8e8a97b89a8b" width=400>
 
-This version of T-Circle-S3 includes the ready-to-use software "Teacher 3+" — an interactive game for children aged 3 to 7 years.
+
+"Teacher 3+" — an interactive game for children aged 3 to 7 years.
 
 The "Teacher" interacts with the children and helps them learn how to pronounce words using pictures and sounds.
 
@@ -13,46 +15,59 @@ An artificial neural network is used to recognize the correct pronunciation of a
 ## Summary
 
 - **English language learning device**
-- **Learning words**
-- **Pronunciation training**
+  - Learning words
+  - Pronunciation training
+ 
+    
 - **Training through different channels:**
   - Pictures
   - Sounds
   - Numbers (in addition and subtraction examples)
 
----
-
-## Topics
-
-- Numbers (0 to 20)
-- Animals
-- Nature
-- Human
-- Objects
+- **Topics**
+  - Numbers
+  - Animals
+  - Nature
+  - Human
+  - Objects
 
 ---
 
 ## How It Works
 
-1. **Displays pictures.**
-2. **Plays corresponding sounds.**
-3. **Shows numbers and simple addition/subtraction examples.**
-4. **Child voices their answers:**
-   - The AI-Teacher recognizes the response and determines if it is correct.
+<img src="https://github.com/user-attachments/assets/174cf222-a2b7-4a07-8212-68394068146a" width=400>
+
+**Displays pictures.**
+
+![2](https://github.com/user-attachments/assets/bd8e5b64-a26e-460e-be65-05db02a38f6d)
+
+
+**Plays corresponding sounds.**
+
+![3](https://github.com/user-attachments/assets/35feb515-2fa5-4814-bc8b-afe12d658a5b)
+
+
+**Shows numbers and simple addition/subtraction examples.**
+
+![4](https://github.com/user-attachments/assets/1d8b01be-25b5-4093-a1de-b01faa82d542)
+
+
+**Child voices their answers.**
+The AI-Teacher recognizes the response and determines if it is correct.
 
 ### Additional Features
 
 - **Skip the word:** Swipe left.
 - **Ask for a hint:** Touch the screen to display the word and play its correct pronunciation.
 
-Children naturally learn and memorize words through real-time interaction with the toy, similar to how native speakers acquire language.
+**Children naturally learn and memorize words through real-time interaction with the toy, similar to how native speakers acquire language.**
 
 ---
 
 ## What's In the Box
 
-- **T-Circle S3**
-- **Software (preinstalled)**
+- T-Circle S3
+- Software (preinstalled)
 
 ---
 
@@ -75,12 +90,6 @@ Children naturally learn and memorize words through real-time interaction with t
 
 - **Durability and safety:**
   Made with durable, child-friendly materials that can withstand rough handling.
-
-- **Sustainability:**
-  Energy-efficient and uses rechargeable batteries, making it eco-friendly for long-term use.
-
-- **Expandable content:**
-  Future updates may include more advanced topics or additional languages.
 
 ---
 
