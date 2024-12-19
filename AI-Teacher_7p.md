@@ -3,6 +3,7 @@ Based on T-Circle-S3
 
 <img src="https://github.com/user-attachments/assets/362e1cfa-3efc-4d0b-8a5b-fe802c4268a3" width=400>
 
+Demo video: https://youtu.be/cu3K8FJDy-Q?si=aUMjD4hItJEpXq5u
 
 "Teacher 7+" — an interactive game for children aged 7 to 14 years.
 
