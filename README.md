@@ -4,7 +4,7 @@ Lilygo T-Circle S3 AI Teacher
 The application "Teacher" interacts with children, helping them learn word pronunciation through pictures and sounds.
 An artificial neural network is employed to recognize and evaluate the correct pronunciation of words.
 
-Demo video: [https://youtu.be/cu3K8FJDy-Q?si=aUMjD4hItJEpXq5u ](https://youtu.be/PvLMZ81CnTQ)
+Demo video: https://youtu.be/G9GdovFiLc0?si=4YFhcgGcVfHU-bBt
 
 There are two versions available:
 
