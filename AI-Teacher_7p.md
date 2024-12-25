@@ -3,8 +3,8 @@ Based on T-Circle-S3
 
 <img src="https://github.com/user-attachments/assets/362e1cfa-3efc-4d0b-8a5b-fe802c4268a3" width=400>
 
-Demo video: [https://youtu.be/cu3K8FJDy-Q?si=aUMjD4hItJEpXq5u
-](https://youtu.be/PvLMZ81CnTQ)
+Demo video: https://youtu.be/G9GdovFiLc0?si=4YFhcgGcVfHU-bBt
+
 "Teacher 7+" — an interactive game for children aged 7 to 14 years.
 
 The "Teacher" interacts with the children and helps them learn how to pronounce words using pictures and sounds.
