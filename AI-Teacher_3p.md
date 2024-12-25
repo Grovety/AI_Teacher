@@ -3,7 +3,7 @@ Based on T-Circle-S3
 
 <img src="https://github.com/user-attachments/assets/6ee70f87-322f-473d-a4fd-8e8a97b89a8b" width=400>
 
-Demo video: [https://youtu.be/cu3K8FJDy-Q?si=aUMjD4hItJEpXq5u](https://youtu.be/PvLMZ81CnTQ)
+Demo video: https://youtu.be/G9GdovFiLc0?si=4YFhcgGcVfHU-bBt
 
 
 "Teacher 3+" — an interactive game for children aged 3 to 7 years.
